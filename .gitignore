@@ -1,0 +1,6 @@
+*.pbix.user
+*.pbit
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
